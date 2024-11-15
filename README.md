@@ -9,7 +9,7 @@
 🚀 Current Projects: Our indie game – stay tuned for updates!
 📬 Feel free to reach out for collaboration or just to connect!
 
-<p style="display: flex; flex-flow: row nowrap; justify-items: center; width: 100%;">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,windows,linux"/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/><br/>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,blender"/><br/>
