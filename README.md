@@ -1,12 +1,15 @@
 ## Hi there 👋
 
 👾 French Full-Stack Engineer & Game Developer
+
 🎮 Passionate about crafting interactive and innovative worlds. Currently working with friends on an indie video game using Unity6, blending creativity and technology.
 
 🌐 Skills: Full-Stack Development (Front & Back-end), Game Design, Unity, C#, and more.
+
 💡 Always seeking new challenges and inspiration.
 
 🚀 Current Projects: Our indie game – stay tuned for updates!
+
 📬 Feel free to reach out for collaboration or just to connect!
 
 <p align="center">
